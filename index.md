@@ -1,15 +1,16 @@
 # Bios/Promos Page
 
 [Discord](https://discord.gg/8WAEGuM)
-[Twitter](https://twitter.com/GG21_Grewdon)
 
-### Hi there 👋
-My name is Grewdon, I enjoy hacking my Old3DS
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FGG21_Grewdon)
 
-- 🔭 I’m currently working on my [3DS Game Demos](https://github.com/GrewdonGaming21/3DS-Game-Demos) Repository.
-- 🌱 I’m currently learning how to build websites.
-- 👯 I’m looking to collaborate on my [3DS Game Demos](https://github.com/GrewdonGaming21/3DS-Game-Demos) Repository.
-- 🤔 I’m looking for help with my [3DS Game Demos](https://github.com/GrewdonGaming21/3DS-Game-Demos) Repository.
-- 📫 How to reach me: groudonfreak0499@gmail.com
+![GitHub followers](https://img.shields.io/github/followers/GrewdonGaming21?style=social)
+
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/grewdongaming21?style=social)
+
+[Grewdon Gaming21 (YouTube)](https://www.youtube.com/channel/UCt0RYDj_oUbVWEbmNkXFxxQ)
+
+[Grewdon's Music and Art Channel (YouTube)](https://www.youtube.com/channel/UCtksO9K42cOkoD7mAoblazQ)
+
 
 Back to [Main Page](http://grewdongaming21.github.io/).
