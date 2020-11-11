@@ -8,6 +8,8 @@
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FGG21_Grewdon)
 
+<a href="https://twitter.com/Grewdon_GG21?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Grewdon_GG21</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![GitHub followers](https://img.shields.io/github/followers/GrewdonGaming21?style=social)
 
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/grewdongaming21?style=social)
