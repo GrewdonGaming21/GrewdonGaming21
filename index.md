@@ -2,6 +2,8 @@
 
 [Discord](https://discord.gg/8WAEGuM)
 
+![Discord](https://img.shields.io/discord/632696843373117493)
+
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FGG21_Grewdon)
 
 ![GitHub followers](https://img.shields.io/github/followers/GrewdonGaming21?style=social)
