@@ -4,6 +4,8 @@
 
 ![Discord](https://img.shields.io/discord/632696843373117493)
 
+<iframe src="https://discord.com/widget?id=632696843373117493&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FGG21_Grewdon)
 
 ![GitHub followers](https://img.shields.io/github/followers/GrewdonGaming21?style=social)
