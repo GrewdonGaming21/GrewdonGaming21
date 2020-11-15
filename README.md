@@ -1,10 +1,6 @@
 ### Hi there 👋
 My name is Grewdon, I enjoy hacking my Old3DS
 
-- 🔭 I’m currently working on my [3ds Title Database](https://github.com/GrewdonGamin21/3DS-Titles-Database/).
-- 🌱 I’m currently learning how to build websites.
-- 👯 I’m looking to collaborate on my [3DS Game Demos](https://github.com/GrewdonGaming21/3DS-Game-Demos) and my [3ds Title Database](https://github.com/GrewdonGamin21/3DS-Titles-Database/) Repositories.
-- 🤔 I’m looking for help with my [3DS Game Demos](https://github.com/GrewdonGaming21/3DS-Game-Demos) and my [3ds Title Database](https://github.com/GrewdonGamin21/3DS-Titles-Database/) Repositories Repositories.
 - 📫 How to reach me: groudonfreak0499@gmail.com
 
 ![GitHub followers](https://img.shields.io/github/followers/GrewdonGaming21?label=Github%20Followers&style=social)
@@ -15,6 +11,8 @@ My name is Grewdon, I enjoy hacking my Old3DS
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Grewdon_GG21?style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fuser%2FGrewdon_GG21)
+
+![MEGA Referral Link](https://mega.nz/aff=gwydQ1MXIGA)
 
 QR Codes below for my other media:
 
