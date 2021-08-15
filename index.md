@@ -3,7 +3,7 @@ My name is Grewdon, I enjoy hacking my Old3DS
 
 - 📫 How to reach me: groudonfreak0499@gmail.com
 
-### Github
+### [Github](https://github.com/GrewdonGaming21)
 
 ![GitHub followers](https://img.shields.io/github/followers/GrewdonGaming21?label=Github%20Followers&style=social)
 
