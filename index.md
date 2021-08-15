@@ -23,9 +23,7 @@ My name is Grewdon, I enjoy hacking my Old3DS
 
 <a href="https://twitter.com/Grewdon_GG21?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Grewdon_GG21</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Twitch
-
-[GrewdonGaming21 - Twitch](https://www.twitch.tv/grewdongaming21)
+### [GrewdonGaming21 - Twitch](https://www.twitch.tv/grewdongaming21)
 
 ### Patreon
 
