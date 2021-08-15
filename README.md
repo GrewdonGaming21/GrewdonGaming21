@@ -14,6 +14,7 @@ My name is Grewdon, I enjoy hacking my Old3DS
 
 Discord:
 https://discord.io/GrewdonGaming21
+
 ![Discord Members](https://discord.io/GrewdonGaming21/badge)
 
 <!--
