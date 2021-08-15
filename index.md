@@ -25,19 +25,16 @@ My name is Grewdon, I enjoy hacking my Old3DS
 
 ### [GrewdonGaming21 - Twitch](https://www.twitch.tv/grewdongaming21)
 
-### Patreon
-
-[GrewdonGaming21 - Patreon](https://www.patreon.com/grewdongaming21)
+### [GrewdonGaming21 - Patreon](https://www.patreon.com/grewdongaming21)
 
 ### YouTube
 
 - [Grewdon Gaming21 - YouTube](https://www.youtube.com/channel/UCt0RYDj_oUbVWEbmNkXFxxQ)
-- [Grewdon's Music and Art Channel - YouTube](https://www.youtube.com/channel/UCtksO9K42cOkoD7mAoblazQ)
+- [Grewdons Music21 - YouTube](https://www.youtube.com/channel/UCtksO9K42cOkoD7mAoblazQ)
 
 <a href="http://www.unitag.io/qreator/generate?setting=%7B%22EYES%22%3A%7B%22EYE_TYPE%22%3A%22ER_IR%22%2C%22COLOR_EHD%22%3A%22333333%22%2C%22COLOR_IHG%22%3A%22333333%22%2C%22COLOR_EHG%22%3A%22333333%22%2C%22COLOR_IHD%22%3A%22333333%22%2C%22COLOR_EBG%22%3A%22333333%22%2C%22COLOR_IBG%22%3A%22333333%22%7D%2C%22E%22%3A%22H%22%2C%22LOGO%22%3A%7B%22EXCAVATE%22%3Atrue%2C%22L_Y%22%3Anull%2C%22L_X%22%3Anull%2C%22L_NAME%22%3A%22https%3A%2F%2Fstatic-unitag.com%2Ffile%2Fqr%2Fcc1d00b0fb97c1e75670c4c78a53c3c5.png%22%7D%2C%22BODY_TYPE%22%3A0%2C%22LAYOUT%22%3A%7B%22COLORBG%22%3A%22ffffff%22%2C%22GRADIENT_TYPE%22%3A%22NO_GR%22%2C%22COLOR1%22%3A%22cc181e%22%7D%7D&data=%7B%22DATA%22%3A%7B%22URL%22%3A%22https%3A%5C%2F%5C%2Feqrcode.co%5C%2Fa%5C%2FWYXN68%22%7D%2C%22TYPE%22%3A%22url%22%7D ">
 
-### Discord
-[Discord](https://discord.io/GrewdonGaming21)
+### [GG21 - Discord](https://discord.io/GrewdonGaming21)
 
 ![Discord](https://discord.io/GrewdonGaming21/badge)
 
