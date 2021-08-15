@@ -15,7 +15,7 @@ My name is Grewdon, I enjoy hacking my Old3DS
 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/GrewdonGaming21?style=social)
 
-### Twitter
+### [Twitter](https://twitter.com/Grewdon_GG21)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Grewdon_GG21?style=social)
 
