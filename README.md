@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Grewdon, I enjoy hacking my Old3DS
+My name is Grewdon, I have a couple of side projects here on Github.
 
 - 📫 How to reach me: groudonfreak0499@gmail.com
 
@@ -12,8 +12,7 @@ My name is Grewdon, I enjoy hacking my Old3DS
 ![Twitter Follow](https://img.shields.io/twitter/follow/Grewdon_GG21?style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fuser%2FGrewdon_GG21)
 
-Discord:
-https://discord.io/GrewdonGaming21
+[Discord Link](https://discord.io/GrewdonGaming21)
 
 ![Discord Members](https://discord.io/GrewdonGaming21/badge)
 
