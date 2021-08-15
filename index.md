@@ -9,7 +9,7 @@ My name is Grewdon, I enjoy hacking my Old3DS
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/GrewdonGaming21?style=social)
 
-### Reddit
+### [Reddit](https://www.reddit.com/r/GrewdonGaming21/)
 
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/GrewdonGaming21?style=social)
 
